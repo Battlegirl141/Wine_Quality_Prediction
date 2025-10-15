@@ -38,3 +38,8 @@ Hyperparameter Tuning: Use GridSearchCV or RandomizedSearchCV on the Random Fore
 Feature Importance Analysis: Identify which chemical properties most influence wine quality.
 
 Classification Approach: Convert continuous quality scores into discrete classes (e.g., "low," "medium," "high") and explore classification models.
+
+## 👤 Author
+**Aktan Asanbaev**  
+*Data & Process Analyst | Junior Machine Learning Engineer*  
+📧 https://www.linkedin.com/in/aktan-asanbaev-84317b352/
